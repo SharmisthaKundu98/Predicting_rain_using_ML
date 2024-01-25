@@ -8,10 +8,12 @@
     * create a virtual environment- 
         ```conda create -n mlproject python=3.8 -y ```  
         ``` conda activate mlproject ```
-
-    * we write in **requirement.txt** file to specify the external dependencies that this project needs.
-    * Then set **setup.py** file (this script is meant to be part of a Python project's distribution and packaging setup.It allows the project to be easily distributed and installed using tools like "pip".) 
     * for requirement installation, 
         ``` pip install -r requirement.txt ```
+* ### Notebook experiment
+    - add jupyter notebook file in **research** directory
+* ### Project Utility
+    * setup logging
+    * Exception-
+    * Utility module-
 
-    
