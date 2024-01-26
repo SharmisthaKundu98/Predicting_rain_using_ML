@@ -13,7 +13,7 @@
 * ### Notebook experiment
     - add jupyter notebook file in **research** directory
 * ### Project Utility
-    * setup logging
+    * setup logging - log file is [here](./log/running_log.log) 
     * Exception-
-    * Utility module-
+    * Utility module- 
 

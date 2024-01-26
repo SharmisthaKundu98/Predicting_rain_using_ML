@@ -11,7 +11,6 @@ src/Predicting_rainfall_project/config/configaration.py
 src/Predicting_rainfall_project/constants/__init__.py
 src/Predicting_rainfall_project/entity/__init__.py
 src/Predicting_rainfall_project/entity/config_entity.py
-src/Predicting_rainfall_project/logging/__init__.py
 src/Predicting_rainfall_project/pipeline/__init__.py
 src/Predicting_rainfall_project/utils/__init__.py
 src/Predicting_rainfall_project/utils/common.py
