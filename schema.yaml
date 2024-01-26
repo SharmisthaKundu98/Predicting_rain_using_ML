@@ -1,0 +1,28 @@
+#schema of data
+COLUMN_NAME:
+    MinTemp: float64
+    MaxTemp: float64
+    Rainfall: float64
+    Evaporation : float64
+    Sunshine : float64
+    WindGustDir : object 
+    WindGustSpeed: int64  
+    WindDir9am : object 
+    WindDir3pm : object 
+    WindSpeed9am : int64
+    WindSpeed3pm : int64
+    Humidity9am : int64
+    Humidity3pm : int64
+    Pressure9am : float64
+    Pressure3pm : float64
+    Cloud9am  : int64 
+    Cloud3pm : int64
+    Temp9am : float64
+    Temp3pm : float64
+    RainToday : object 
+    RainTomorrow : object 
+
+
+TARGET_COLUMN:
+  name: RainTomorrow
+
