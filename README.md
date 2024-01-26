@@ -13,7 +13,18 @@
 * ### Notebook experiment
     - add jupyter notebook file in **research** directory
 * ### Project Utility
-    * setup logging - log file is [here](./log/running_log.log) 
-    * Exception-
-    * Utility module- 
+    * set logging constructor file [here](./src/Predicting_rainfall_project/__init__.py) and the log file is [here](./log/running_log.log) 
+    * Exception
+    * Set Utility module in the [file](./src/Predicting_rainfall_project/utils/common.py)
+
+* ### Workflows
+    1. update config.yaml
+    2. update schema.yaml
+    3. update params.yaml
+    4. update the entity 
+    5. update the configuration manager in src config
+    6. update the components
+    7. update the pipeline
+    8. update the main.py
+    9. update the app.py
 
