@@ -11,7 +11,7 @@ log_filepath = os.path.join(log_dir,"running_log.log")
 os.makedirs(log_dir,exist_ok= True)
 
 
-level_name = logging.INFO
+level_name = logging.DEBUG
 logging.basicConfig(
     level= level_name, format= logging_format,
     handlers= [

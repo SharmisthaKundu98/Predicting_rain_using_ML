@@ -1,11 +1,7 @@
-# project configuration
-
 artifacts_root: artifacts
 
-# Data Ingestion settings
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/SharmisthaKundu98/Datasets/blob/main/Weather_Data.csv
+  source_URL: https://github.com/SharmisthaKundu98/Datasets/raw/main/Weather_Data.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
-
